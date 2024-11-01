@@ -1,0 +1,14 @@
+/Users/lex/RiderProjects/ConsoleApp12/ConsoleApp12/obj/Debug/net8.0/ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lex/RiderProjects/ConsoleApp12/ConsoleApp12/obj/Debug/net8.0/ConsoleApp12.AssemblyInfoInputs.cache
+/Users/lex/RiderProjects/ConsoleApp12/ConsoleApp12/obj/Debug/net8.0/ConsoleApp12.AssemblyInfo.cs
+/Users/lex/RiderProjects/ConsoleApp12/ConsoleApp12/obj/Debug/net8.0/ConsoleApp12.csproj.CoreCompileInputs.cache
+/Users/lex/RiderProjects/ConsoleApp12/ConsoleApp12/bin/Debug/net8.0/ConsoleApp12
+/Users/lex/RiderProjects/ConsoleApp12/ConsoleApp12/bin/Debug/net8.0/ConsoleApp12.deps.json
+/Users/lex/RiderProjects/ConsoleApp12/ConsoleApp12/bin/Debug/net8.0/ConsoleApp12.runtimeconfig.json
+/Users/lex/RiderProjects/ConsoleApp12/ConsoleApp12/bin/Debug/net8.0/ConsoleApp12.dll
+/Users/lex/RiderProjects/ConsoleApp12/ConsoleApp12/bin/Debug/net8.0/ConsoleApp12.pdb
+/Users/lex/RiderProjects/ConsoleApp12/ConsoleApp12/obj/Debug/net8.0/ConsoleApp12.dll
+/Users/lex/RiderProjects/ConsoleApp12/ConsoleApp12/obj/Debug/net8.0/refint/ConsoleApp12.dll
+/Users/lex/RiderProjects/ConsoleApp12/ConsoleApp12/obj/Debug/net8.0/ConsoleApp12.pdb
+/Users/lex/RiderProjects/ConsoleApp12/ConsoleApp12/obj/Debug/net8.0/ConsoleApp12.genruntimeconfig.cache
+/Users/lex/RiderProjects/ConsoleApp12/ConsoleApp12/obj/Debug/net8.0/ref/ConsoleApp12.dll
